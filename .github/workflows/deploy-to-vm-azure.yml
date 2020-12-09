@@ -1,6 +1,6 @@
 jobs:
   # ジョブの名前はメンバーで重複しないように指定
-  deploy-virtual-machine-sakaue:
+  deploy-virtual-machine:
     runs-on: ubuntu-latest
 
     steps:
